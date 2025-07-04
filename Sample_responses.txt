@@ -1,0 +1,24 @@
+🟢 Command: Generate 5 MCQs on Python loops
+🟡 Response:
+[
+  {
+    "question": "Which of the following is a loop in Python?",
+    ...
+  },
+  ...
+]
+
+🟢 Command: Provide a lesson plan for teaching algebra
+🟡 Response:
+{
+  "topic": "Algebra",
+  "duration": "45 mins",
+  ...
+}
+
+🟢 Command: Flashcards for object-oriented programming
+🟡 Response:
+[
+  {"term": "Class", "definition": "A blueprint for creating objects."},
+  ...
+]
